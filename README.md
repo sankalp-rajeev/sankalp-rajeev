@@ -1,6 +1,6 @@
 ![MasterHead](https://www.embitel.com/wp-content/uploads/AI-and-ML-banner-with-head.png)
 <h1 align="center">Hi 👋, I'm Sankalp Rajeev</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A software dev </h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-rajeev&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-rajeev" /> </p>
