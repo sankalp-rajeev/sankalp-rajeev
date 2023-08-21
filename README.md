@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-rajeev&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-rajeev" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently taking a 10 week course in **Computer Vision from CMU**
 
 - 📫 How to reach me **srajeev@asu.edu**
 
